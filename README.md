@@ -1,8 +1,10 @@
 # Kross Hugo Portfolio Forestry starter
 
-[Preview theme](http://demo.themefisher.com/kross-hugo/)
+![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png)
 
-Theme developed by Themefisher.
+[Live Preview](http://demo.themefisher.com/kross-hugo/)
+
+[Kross Hugo theme](https://github.com/themefisher/kross-hugo/) is developed by Themefisher.
 
 ## Requirements
 
