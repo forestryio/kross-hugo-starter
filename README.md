@@ -59,4 +59,4 @@ Follow the steps.
 
 ## LICENSE
 
-MIT as specified in the theme's[LICENSE](https://github.com/themefisher/kross-hugo/blob/master/LICENSE) file 
+MIT as specified in the theme's [LICENSE](https://github.com/themefisher/kross-hugo/blob/master/LICENSE) file 
