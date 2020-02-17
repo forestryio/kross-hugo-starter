@@ -33,12 +33,11 @@ hugo server
 
 ### Netlify
 
-Import your site in [Netlify](https://netlify.com)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio/kross-hugo-starter)
 
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `hugo --gc --minify`
-3. Set the publish directory to: `public`
-4. Make sure to set `HUGO_VERSION` to 0.55.0 or above (tested with 0.62.2)
+1. Set the build command to: `hugo --gc --minify`
+2. Set the publish directory to: `public`
+3. Make sure to set `HUGO_VERSION` to 0.58.0 or above (tested with 0.64.1)
 3. Set the publish directory to: `public`
 
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
