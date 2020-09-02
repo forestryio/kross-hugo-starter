@@ -15,9 +15,9 @@
 
 ![](static/images/kross-forestry.jpg)
 
-[![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.64.1)
+[![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.74.3)
 
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your repository in Forestry](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.64.1) and you'll be able to edit and preview your site ✨. \
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your repository in Forestry](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.74.3) and you'll be able to edit and preview your site ✨. \
 
 Any changes you make in Forestry will be commited back to the repo, and deployed if you use [Netlify](#netlify) or [ZEIT now](#zeit-now).
 
@@ -42,14 +42,14 @@ hugo server
 
 1. Set the build command to: `hugo --gc --minify`
 2. Set the publish directory to: `public`
-3. Make sure to set `HUGO_VERSION` to 0.58.0 or above (tested with 0.64.1)
+3. Make sure to set `HUGO_VERSION` to 0.58.0 or above (tested with 0.74.3)
 3. Set the publish directory to: `public`
 
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
 
-### ZEIT Now
+### Vercel
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/forestryio/kross-hugo-starter)
+[![Deploy with Vercel](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/forestryio/kross-hugo-starter)
 
 Follow the steps.
 
