@@ -19,22 +19,15 @@
 
 This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your repository in Forestry](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.74.3) and you'll be able to edit and preview your site ✨. \
 
-Any changes you make in Forestry will be commited back to the repo, and deployed if you use [Netlify](#netlify) or [ZEIT now](#zeit-now).
+Any changes you make in Forestry will be commited back to the repo, and deployed if you use [Vercel](#vercel) or [Netlify](#netlify).
 
-## Local development
+## Deployment
 
-```bash
-# clone the repository
-git clone git@github.com:forestryio/kross-hugo-starter.git
+### Vercel
 
-# cd in the project directory
-cd kross-hugo-starter
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import)
 
-# Start local dev server
-hugo server
-```
-
-## Deployment and hosting 
+Follow the steps.
 
 ### Netlify
 
@@ -47,11 +40,17 @@ hugo server
 
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
 
-### Vercel
+## Local development
 
-[![Deploy with Vercel](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/forestryio/kross-hugo-starter)
+This starter is using [Hugo](https://gohugo.io) as a static site generator.
+Once imported in Forestry, clone your repository and develop locally with Hugo.
 
-Follow the steps.
+```bash
+# Clone your repository
+# Go in the project directory
+# Start local dev server
+hugo server
+```
 
 ## Feedback
 
