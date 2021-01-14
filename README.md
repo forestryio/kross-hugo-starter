@@ -17,7 +17,7 @@
 
 [![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.80.0)
 
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your repository in Forestry](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.80.0) and you'll be able to edit and preview your site ✨. \
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your repository in Forestry](https://app.forestry.io/quick-start?repo=forestryio/kross-hugo-starter&engine=hugo&version=0.80.0) and you'll be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be commited back to the repo, and deployed when your Git repository is connected to [Netlify](#netlify).
 
